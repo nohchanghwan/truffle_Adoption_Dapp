@@ -1,4 +1,4 @@
-pragma solidity ^0.4.17;
+pragma solidity ^0.5.0;
 
 contract Adoption {
     
@@ -17,7 +17,7 @@ contract Adoption {
     }
 
     //전체배열반환
-    function getAdopters() public view returns (address[16]){
+    function getAdopters() public view returns (address[16] memory){
         return adopters;
     }
 }

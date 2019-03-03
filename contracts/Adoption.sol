@@ -13,7 +13,7 @@ contract Adoption {
         //범위내에 있으면 배열에 호출한 주소 추가
         adopters[petId] = msg.sender;
         
-        return pedId;
+        return petId;
     }
 
     //전체배열반환

@@ -1,32 +1,32 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
+    "name": "멍멍",
+    "picture": "images/pet1.png",
     "age": 3,
     "breed": "Scottish Terrier",
     "location": "Lisco, Alabama"
   },
   {
     "id": 1,
-    "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
+    "name": "찡찡",
+    "picture": "images/pet3.png",
     "age": 3,
     "breed": "Scottish Terrier",
     "location": "Tooleville, West Virginia"
   },
   {
     "id": 2,
-    "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
+    "name": "멍멍",
+    "picture": "images/pet2.png",
     "age": 2,
     "breed": "French Bulldog",
     "location": "Freeburn, Idaho"
   },
   {
     "id": 3,
-    "name": "Melissa",
-    "picture": "images/boxer.jpeg",
+    "name": "파니",
+    "picture": "images/pet2.png",
     "age": 2,
     "breed": "Boxer",
     "location": "Camas, Pennsylvania"
@@ -34,7 +34,7 @@
   {
     "id": 4,
     "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
+    "picture": "images/pet1.png",
     "age": 2,
     "breed": "French Bulldog",
     "location": "Gerber, South Dakota"
@@ -106,7 +106,7 @@
   {
     "id": 13,
     "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/images/pet1.png",
     "age": 4,
     "breed": "Golden Retriever",
     "location": "Sultana, Massachusetts"

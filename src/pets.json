@@ -1,15 +1,15 @@
 [
   {
     "id": 0,
-    "name": "멍멍",
-    "picture": "images/pet1.png",
+    "name": "뽀삐",
+    "picture": "images/pet4.png",
     "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Lisco, Alabama"
+    "breed": "진돗개와 치와와의 혼종",
+    "location": "Incheon, Korea"
   },
   {
     "id": 1,
-    "name": "찡찡",
+    "name": "찡찡이",
     "picture": "images/pet3.png",
     "age": 3,
     "breed": "Scottish Terrier",
@@ -17,8 +17,8 @@
   },
   {
     "id": 2,
-    "name": "멍멍",
-    "picture": "images/pet2.png",
+    "name": "멍멍이",
+    "picture": "images/french-bulldog.jpeg",
     "age": 2,
     "breed": "French Bulldog",
     "location": "Freeburn, Idaho"
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "파니",
-    "picture": "images/pet2.png",
+    "picture": "images/golden-retriever.jpeg",
     "age": 2,
     "breed": "Boxer",
     "location": "Camas, Pennsylvania"
@@ -34,7 +34,7 @@
   {
     "id": 4,
     "name": "Jeanine",
-    "picture": "images/pet1.png",
+    "picture": "images/pet3.png",
     "age": 2,
     "breed": "French Bulldog",
     "location": "Gerber, South Dakota"
@@ -50,7 +50,7 @@
   {
     "id": 6,
     "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/pet3.png",
     "age": 3,
     "breed": "Golden Retriever",
     "location": "Soudan, Louisiana"
@@ -58,7 +58,7 @@
   {
     "id": 7,
     "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
+    "picture": "images/pet4.png",
     "age": 3,
     "breed": "Golden Retriever",
     "location": "Jacksonwald, Palau"
@@ -106,7 +106,7 @@
   {
     "id": 13,
     "name": "Kristina",
-    "picture": "images/images/pet1.png",
+    "picture": "images/french-bulldog.jpeg",
     "age": 4,
     "breed": "Golden Retriever",
     "location": "Sultana, Massachusetts"

@@ -69,7 +69,7 @@ App = {
       for(i=0; i< adopters.length; i++){
         // 해당주소가있는 펫이 발견되면 입양버튼을 비활성화하고 버튼 텍스트를 Success로 변경
         if (adopters[i] !== '0x0000000000000000000000000000000000000000') {
-          $('.panel-pet').eq(i).find('button').text('Success').attr('disabled', true);
+          $('.panel-pet').eq(i).find('button').text('입양완료').attr('disabled', true);
         }
       }
     }).catch(function(err){

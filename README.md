@@ -1,4 +1,4 @@
-# truffle_test_dapp
+# truffle_Adoption_Dapp
 Truffle 프레임워크 에서 스마트컨트랙트 구현
 
 펫 입양 프론트라이브러리 + Truffle + Ganache + solidity + nodejs 
